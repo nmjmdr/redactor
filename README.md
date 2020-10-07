@@ -15,7 +15,7 @@ Example:
 ```
 ```
 Output:
-{"licenses":[{"name":"Savarkar","number":"******"},{"name":" Hegdewar","number":"*****"}]}
+{"licenses":[{"name":"Sav","number":"******"},{"name":" Heg","number":"*****"}]}
 ```
 
 Benchmark:
